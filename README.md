@@ -112,11 +112,10 @@
 ###
 
   <div align="center">
-    <img src="https://github-readme-streak-stats-ochre-eight.vercel.app/?user=JudeCodeHub&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </div>
+  <img src="https://streak-stats.demolab.com?user=JudeCodeHub&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=JudeCodeHub&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"/>
+  </div>
 
 ###
 
