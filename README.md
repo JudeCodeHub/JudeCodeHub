@@ -103,9 +103,9 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="34" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=notion" height="34" alt="notion logo"  />
+  <img src="https://skillicons.dev/icons?i=notion" height="45" alt="notion logo"  />
 </div>
 
 ###
