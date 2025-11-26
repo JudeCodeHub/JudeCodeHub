@@ -1,0 +1,32 @@
+activity-graph.ymlname: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate the Activity Graph
+        uses: ashutosh00710/github-readme-activity-graph@v2
+        with:
+          username: JudeCodeHub
+          theme: react
+          # This keeps the output in the same branch structure as the snake
+          output: dist/pacman-contribution-graph.svg 
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
