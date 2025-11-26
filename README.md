@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="308" src="https://urban-white-di5jiadqjj-g51lzp70xm.edgeone.dev/github.png"  />
+  <img height="350" src="https://urban-white-di5jiadqjj-g51lzp70xm.edgeone.dev/github.png"  />
 </div>
 
 ###
@@ -139,11 +139,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=20&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
-</div>
 
 ###
