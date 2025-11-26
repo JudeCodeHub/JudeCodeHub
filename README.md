@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="15" />
