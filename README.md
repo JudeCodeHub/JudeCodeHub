@@ -4,11 +4,17 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JudeCodeHub.JudeCodeHub&left_text=Profile%20visitors"  />
+</div>
 
 ###
 
-<h4 align="left">I'm from Sri Lanka...<br>   - 🔭 I’m an Undergraduate  Computer Science Student.<br>   - 📚 I'm currently learning DevOps, Full Stack, and Mobile Development.<br>   - ⚡ In my free time i work on turning my ideas into reality.</h4>
+<h2 align="left">👩‍💻  About Me...</h2>
+
+###
+
+<h3 align="left">I'm from Sri Lanka...<br>   - 🔭 I’m an Undergraduate  Computer Science Student.<br>   - 📚 I'm currently learning DevOps, Full Stack, and Mobile Development.<br>   - ⚡ In my free time i work on turning my ideas into reality.</h3>
 
 ###
 
@@ -36,7 +42,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Language and tools...</h2>
 
 ###
 
@@ -104,27 +110,35 @@
 
 ###
 
-<h2 align="left">🔥 My Stats</h2>
+<h2 align="left">🔥 My Stats...</h2>
 
 ###
 
-<h2 align="left">💻 My activities</h2>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@/0" alt="Medium post 1"  />
-  </a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JudeCodeHub&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=JudeCodeHub&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h2 align="left">🚀 Gotta Commit 'Em All</h2>
+<h2 align="left">🚀 Gotta Commit 'Em All...</h2>
 
 ###
 
-<h2 align="left">📝 Activity Log</h2>
+<img src="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">📝 Activity Log...</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
