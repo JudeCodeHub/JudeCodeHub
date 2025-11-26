@@ -112,7 +112,9 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-ochre-eight.vercel.app?user=JudeCodeHub&theme=radical)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=JudeCodeHub&theme=radical" alt="GitHub Streak" />
+</a>
   <img src="https://github-profile-trophy.vercel.app?username=JudeCodeHub&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
