@@ -47,65 +47,65 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="31" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="34" alt="linux logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="31" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="31" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=aws" height="31" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="34" alt="amazonwebservices logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="31" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="34" alt="docker logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="31" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="34" alt="kubernetes logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="31" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="34" alt="jenkins logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="31" alt="ansible logo"  />
+  <img src="https://skillicons.dev/icons?i=ansible" height="34" alt="ansible logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="31" alt="terraform logo"  />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="34" alt="terraform logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="31" alt="argocd logo"  />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="34" alt="argocd logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="31" alt="prometheus logo"  />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="34" alt="prometheus logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="31" alt="grafana logo"  />
+  <img src="https://skillicons.dev/icons?i=grafana" height="34" alt="grafana logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="31" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="34" alt="html5 logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=java" height="31" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="34" alt="java logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="31" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="31" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="34" alt="python logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="31" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="34" alt="typescript logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="31" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwindcss logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="31" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="34" alt="css logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="31" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="31" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="31" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="34" alt="nextjs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="31" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="mongodb logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="31" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="34" alt="firebase logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="31" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="34" alt="postgresql logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="31" alt="supabase logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="34" alt="supabase logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="31" alt="appwrite logo"  />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="34" alt="appwrite logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="31" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="31" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="34" alt="canva logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=notion" height="31" alt="notion logo"  />
+  <img src="https://skillicons.dev/icons?i=notion" height="34" alt="notion logo"  />
 </div>
 
 ###
