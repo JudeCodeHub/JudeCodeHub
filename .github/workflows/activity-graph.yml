@@ -1,4 +1,4 @@
-activity-graph.ymlname: Generate Activity Graph
+name: Generate Activity Graph
 
 on:
   schedule:
@@ -19,7 +19,6 @@ jobs:
         with:
           username: JudeCodeHub
           theme: react
-          # This keeps the output in the same branch structure as the snake
           output: dist/pacman-contribution-graph.svg 
 
       - name: Push to output branch
