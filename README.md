@@ -112,7 +112,7 @@
 ###
 
   <div align="center">
-     <div align="left">
+     <div align="center">
      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&preferLogin=false">
     <img alt="JudeCodeHub's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&preferLogin=false" />
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JudeCodeHub&theme=radical&card_height=200" alt="GitHub Streak" /></a>
