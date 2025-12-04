@@ -111,13 +111,15 @@
 
 ###
 
-  <div align="center">
-     <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&preferLogin=false">
+  <div align="left">
+     <div align="left">
+     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&preferLogin=false">
     <img alt="JudeCodeHub's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&preferLogin=false" />
   </a>
 </div>
-   <img src="https://github-profile-trophy.vercel.app?username=JudeCodeHub&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=JudeCodeHub&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="JudeCodeHub's GitHub Trophies" />
+</div>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"/>
   </div>
 
