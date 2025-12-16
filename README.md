@@ -1,8 +1,4 @@
-<img width="1660" height="657" alt="image" src="https://github.com/user-attachments/assets/0f1526a5-785b-4dca-9ca1-855e71cd5428" /><div align="center">
-  <img height="350" src="https://urban-white-di5jiadqjj-g51lzp70xm.edgeone.dev/github.png"  />
-</div>
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JudeCodeHub.JudeCodeHub&left_text=Profile%20visitors"  />
