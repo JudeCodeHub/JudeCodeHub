@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1660" height="657" alt="image" src="https://github.com/user-attachments/assets/0f1526a5-785b-4dca-9ca1-855e71cd5428" /><div align="center">
   <img height="350" src="https://urban-white-di5jiadqjj-g51lzp70xm.edgeone.dev/github.png"  />
 </div>
 
@@ -111,16 +111,19 @@
 
 ###
 
- <div align="center">
+<div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=radical&preferLogin=false">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&preferLogin=false" height="165" alt="JudeCodeHub's GitHub Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&preferLogin=false" height="180" alt="JudeCodeHub's GitHub Stats" />
   </a>
+  
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JudeCodeHub&theme=radical" height="165" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=JudeCodeHub&theme=radical" height="180" alt="GitHub Streak" />
   </a>
+
   <br/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=radical&area=true&order=5&hide_border=true&hide_title=false" height="165" alt="activity-graph graph"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=tokyonight&area=true&order=5&hide_border=true&hide_title=false" width="850" alt="activity-graph graph"/>
 </div>
 
 ###
