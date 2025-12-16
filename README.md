@@ -1,4 +1,4 @@
-<img width="1660" height="657" alt="image" src="https://github.com/user-attachments/assets/0f1526a5-785b-4dca-9ca1-855e71cd5428" /><div align="center">
+<div align="center">
   <img height="350" src="https://urban-white-di5jiadqjj-g51lzp70xm.edgeone.dev/github.png"  />
 </div>
 
@@ -111,36 +111,4 @@
 
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=radical&preferLogin=false">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&preferLogin=false" height="165" alt="JudeCodeHub's GitHub Stats" />
-  </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JudeCodeHub&theme=radical" alt="GitHub Streak" /></a>
-  <br/>
-  <br/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="165" alt="activity-graph graph"/>
-</div>
-
-###
-
-<h2 align="left">🚀 Gotta Commit 'Em All...</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
-<h2 align="left">📝 Activity Log...</h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
+    <img
