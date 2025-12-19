@@ -111,7 +111,7 @@
 
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=radical&preferLogin=false">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&preferLogin=false" height="170" alt="JudeCodeHub's GitHub Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&preferLogin=false" height="165" alt="JudeCodeHub's GitHub Stats" />
   </a>
    <a href="https://git.io/streak-stats">
    <img src="https://github-readme-streak-2ckk.vercel.app?user=JudeCodeHub&theme=radical&card_height=170" alt="GitHub Streak" />
