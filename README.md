@@ -111,11 +111,11 @@
 
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=radical&preferLogin=false">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&preferLogin=false" height="165" alt="JudeCodeHub's GitHub Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&preferLogin=false" card_height="165" alt="JudeCodeHub's GitHub Stats" />
   </a>
    <a href="https://git.io/streak-stats">
-   <img src="https://github-readme-streak-2ckk.vercel.app?user=JudeCodeHub&theme=radical&card_height=165" alt="GitHub Streak" />
-   </a>
+     <img src="https://github-readme-streak-2ckk.vercel.app?user=JudeCodeHub&theme=radical&card_height=165" alt="GitHub Streak" />
+  </a>
   <br/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="165" alt="activity-graph graph"/>
