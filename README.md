@@ -110,14 +110,8 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JudeCodeHub&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="JudeCodeHub's GitHub Stats" />
-    <br/>
-    <br/>
-  
-   <a href="https://git.io/streak-stats">
-     <img src="https://github-readme-streak-2ckk.vercel.app?user=JudeCodeHub&theme=radical&card_height=170" alt="GitHub Streak" />
-  </a>
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=JudeCodeHub&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="JudeCodeHub's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=JudeCodeHub&theme=radical&hide_border=true" alt="JudeCodeHub's GitHub Stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="165" alt="activity-graph graph"/>
 </div>
 
