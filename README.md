@@ -111,8 +111,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JudeCodeHub&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="JudeCodeHub's GitHub Stats" />
-  <br/>
-  <br/>
+  
    <a href="https://git.io/streak-stats">
      <img src="https://github-readme-streak-2ckk.vercel.app?user=JudeCodeHub&theme=radical&card_height=170" alt="GitHub Streak" />
   </a>
