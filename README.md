@@ -110,9 +110,9 @@
 ###
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&fontFamily=&preferLogin=false">   
-    <img  alt="JudeCodeHub's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&fontFamily=&preferLogin=false" /> 
-  </a>
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=radical&fontFamily=&preferLogin=true">   
+     <img  alt="JudeCodeHub's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JudeCodeHub?cardType=github&theme=radical&fontFamily=&preferLogin=true" />  
+   </a>
   <br/>
   <br/>
    <a href="https://git.io/streak-stats">
