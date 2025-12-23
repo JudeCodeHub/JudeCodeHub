@@ -1,48 +1,36 @@
-<div align="center">
-  <img height="350" src="https://urban-white-di5jiadqjj-g51lzp70xm.edgeone.dev/github.png"  />
-</div>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Judechihan</h1>
+<h3 align="center">I am a computer science undergraduate student</h3>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JudeCodeHub.JudeCodeHub&left_text=Profile%20visitors"  />
-</div>
-
-###
-
-<h2 align="left">👩‍💻  About Me...</h2>
-
-###
-
-<h3 align="left">I'm from Sri Lanka...<br>   - 🔭 I’m an Undergraduate  Computer Science Student.<br>   - 📚 I'm currently learning DevOps, Full Stack, and Mobile app Development.<br>   - ⚡ In my free time i work on turning my ideas into reality.</h3>
-
-###
-
-<h2 align="left">🔗 Connect with me....</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.facebook.com/profile.php?id=61563287920654" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=JudeCodeHub">
+    <img src="https://komarev.com/ghpvc/?username=JudeCodeHub&label=Profile%20views&color=00FFFF&style=flat-square" alt="JudeCodeHub's profile views" />
   </a>
-  <a href="mailto:judechihan727@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/judejochimson_judechihan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/judechihan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/HTwUpwyrfG" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
-  </a>
-</div>
+</p>
 
-###
+<img src="https://camo.githubusercontent.com/778c430b2adaa8b54403537e86284b32710faa69833dfbcc71fe442184c7bd10/68747470733a2f2f757262616e2d77686974652d6469356a696164716a6a2d6735316c7a703730786d2e656467656f6e652e6465762f6769746875622e706e67" alt="Banner" width="100%" />
 
-<h2 align="left">🛠 Language & Tools...</h2>
+## 📌 About Me
+- 🔭 I’m an Undergraduate Computer Science Student.
+- 📚 I'm currently learning DevOps, Full Stack, and Mobile app Development.
+- ⚡ In my free time i work on turning my ideas into reality.
 
-###
+
+## 🧠 My Focus Areas
+- DevOps, Full Stack Dev, Mobile app dev
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JudeCodeHub&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="JudeCodeHub's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=JudeCodeHub&theme=radical&hide_border=true&cache_seconds=86400" alt="JudeCodeHub's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&theme=radical&radius=10" alt="JudeCodeHub's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+> ###
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="34" alt="linux logo"  />
   <img width="10" />
@@ -105,36 +93,20 @@
   <img src="https://skillicons.dev/icons?i=notion" height="34" alt="notion logo"  />
 </div>
 
-<h2 align="left">🔥 My Stats...</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudeCodeHub&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
 
-###
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JudeCodehub&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="JudeCodehub's Stats" /><br/><br/>
-  <img src="https://streak-stats.demolab.com?user=JudeCodeHub&theme=radical&hide_border=true" alt="JudeCodeHub's GitHub Stats" /><br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="165" alt="activity-graph graph"/>
-</div>
-
-###
-
-<h2 align="left">🚀 Gotta Commit 'Em All...</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
-<h2 align="left">📝 Activity Log...</h2>
-
-###
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/judechihan" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/940776345280" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:judechihan727@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JudeCodeHub/JudeCodeHub/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
