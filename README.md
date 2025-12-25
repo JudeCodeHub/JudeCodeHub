@@ -115,7 +115,7 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-stats-fast.vercel.app/api?username=JudeCodeHub&show_icons=true&theme=radical" height="150" alt="JudeCodeHub Stats" />
+ <img src="https://readme-stats-01.vercel.app/api?username=JudeCodeHub&show_icons=true&theme=radical&count_private=true" height="150" alt="JudeCodeHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=JudeCodeHub&theme=radical" height="150" alt="JudeCodeHub Streak" /><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JudeCodeHub&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="165" alt="activity-graph graph"/>
 </div>
