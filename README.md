@@ -4,7 +4,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Judechihan</h1>
 
 <div align="center">
-  <img height="350" src="https://urban-white-di5jiadqjj-g51lzp70xm.edgeone.dev/github.png"  />
+  <img height="350" src="[https://urban-white-di5jiadqjj-g51lzp70xm.edgeone.dev/github.png](https://ibb.co/mrLx2DTQ)"  />
 </div>
 
 <div align="center">
