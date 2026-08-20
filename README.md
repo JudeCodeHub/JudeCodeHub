@@ -28,8 +28,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"><img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JudeCodeHub&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=39d353" alt="JudeCodeHub's GitHub Stats" />&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img width="390" src="https://streak-stats.demolab.com?user=JudeCodeHub&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a></p> <br>
-<br>
+<p align="center"><img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JudeCodeHub&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=39d353" alt="JudeCodeHub's GitHub Stats" />&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=JudeCodeHub" alt="GitHub Streak" /></a></p> <br>
 
 ## 🛠️ Languages & Tools
 
