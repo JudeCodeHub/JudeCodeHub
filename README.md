@@ -27,7 +27,7 @@
 <br>
 
 ## 📊 GitHub Stats
-<p align="center"><img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JudeCodeHub&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=39d353" alt="JudeCodeHub's GitHub Stats" />&nbsp;&nbsp;<img width="390" src="https://streak-stats.demolab.com/?user=JudeCodeHub&theme=github_dark&hide_border=false&border_radius=10&background=0d1117&stroke=39d353&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" /></p> <br>
+<p align="center"><img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JudeCodeHub&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=39d353" alt="JudeCodeHub's GitHub Stats" />&nbsp;&nbsp;<img width="390" src="https://streak-stats.demolab.com/?user=JudeCodeHub&theme=github_dark&hide_border=true&border_radius=10&background=0d1117&stroke=39d353&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" /></p> <br>
 
 ## 🛠️ Languages & Tools
 
