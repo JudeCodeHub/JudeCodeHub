@@ -15,10 +15,10 @@
 
 CS undergrad in Sri Lanka. Full stack by training, DevOps by choice.
 
--👨‍💻 Software Engineer Intern at X4 Digital Labs.
--📚 WSO2 DevOps program alum — that's where the infrastructure obsession started.
--⚡ I don't build demos. If it's in my repos, it deployed somewhere.
--🔧 The app is never the point. The pipeline behind it is.
+-👨‍💻 Software Engineer Intern at X4 Digital Labs.<br>
+-📚 WSO2 DevOps program alum — that's where the infrastructure obsession started.<br>
+-⚡ I don't build demos. If it's in my repos, it deployed somewhere.<br>
+-🔧 The app is never the point. The pipeline behind it is.<br>
 -☁️ AWS · Kubernetes · Docker · Terraform · Jenkins · ArgoCD
 
 <br>
