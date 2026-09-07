@@ -13,9 +13,13 @@
 
 ## 📌 About Me
 
-- 🔭 I'm an Undergraduate Computer Science Student with a passion for building things that matter.
-- 📚 I'm currently deepening my skills in DevOps and Full Stack Development.
-- ⚡ In my free time, I turn scattered ideas into real, working projects.
+CS undergrad in Sri Lanka. Full stack by training, DevOps by choice.
+
+👨‍💻 Software Engineer Intern at X4 Digital Labs.
+📚 WSO2 DevOps program alum — that's where the infrastructure obsession started.
+⚡ I don't build demos. If it's in my repos, it deployed somewhere.
+🔧 The app is never the point. The pipeline behind it is.
+☁️ AWS · Kubernetes · Docker · Terraform · Jenkins · ArgoCD
 
 <br>
 
