@@ -1,12 +1,12 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Judechihan</h1>
 <h3 align="center">Software Engineer | DevOps Enthusiast</h3>
 
-<p align="center">
+<!---<p align="center">
   <a href="https://komarev.com/ghpvc/?username=JudeCodeHub">
     <img src="https://komarev.com/ghpvc/?username=JudeCodeHub&label=Profile%20views&color=00FFFF&style=flat-square" alt="JudeCodeHub's profile views" />
   </a>
 </p>
-
+--->
 <!---<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 <br>--->
