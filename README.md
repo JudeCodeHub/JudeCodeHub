@@ -17,7 +17,7 @@
 - 📚 WSO2 DevOps program alum — that's where the infrastructure obsession started.<br>
 - ⚡ I don't build demos. If it's in my repos, it deployed somewhere.<br>
 - 🔧 The app is never the point. The pipeline behind it is.<br>
-- ☁️ AWS · Kubernetes · Docker · Terraform · Jenkins · ArgoCD
+- ☁️ AWS · Kubernetes · Docker · Terraform · Jenkins · GitOps
 
 <br>
 
