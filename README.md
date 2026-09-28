@@ -2,7 +2,8 @@
   Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Judechihan<br>
   Software Engineer | DevOps Enthusiast
 </h1>
-## 📌 About Me
+
+📌 About Me
 
 - 👨‍💻 Software Engineer at X4 Digital Labs.<br>
 - 📚 WSO2 DevOps program alum — that's where the infrastructure obsession started.<br>
