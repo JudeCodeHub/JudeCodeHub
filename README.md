@@ -15,7 +15,7 @@
 
 ## 🧠 My Focus Areas
 
-- 🛠️ Software Engineering : I build robust, scalable applications with clean, maintainable code.
+- 🛠️ Fullstack Engineering : I build robust, scalable applications with clean, maintainable code.
 - ⚙️ DevOps : I automate infrastructure and streamline deployment pipelines to ship faster and more reliably.
 
 <br>
