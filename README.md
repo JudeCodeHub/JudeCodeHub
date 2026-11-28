@@ -24,7 +24,7 @@
 <p align="center">
 <img 
   width="390" 
-  src="https://www.githubstats.tech/api/card?username=JudeCodeHub&theme=buefy&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=0&show_contributed=1&show_year=0&show_top_repo=0&show_profile=0&show_top_percent=1&contrib_stars=1"
+   src="https://github-readme-stats.vercel.app/api?username=JudeCodeHub&theme=github_dark&show_icons=true&hide_border=true&count_private=true" 
   alt="JudeCodeHub's GitHub Stats" 
 />
   &nbsp;&nbsp;
