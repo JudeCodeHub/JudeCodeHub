@@ -23,8 +23,8 @@
 ## 📊 GitHub Stats
 <p align="center">
 <img 
-   width="390" 
-  src="https://github-readme-stats.vercel.app/api?username=JudeCodeHub&theme=github_dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  width="390"
+  src="https://github-readme-stats.vercel.app/api?username=JudeCodeHub&theme=default&show_icons=true&hide_border=true&count_private=true" alt="JudeCodeHub's GitHub Stats" />
   &nbsp;&nbsp;
   <img 
     width="390" 
@@ -32,6 +32,8 @@
     alt="GitHub Streak" 
   />
 </p> <br>
+
+
 
 ## 🛠️ Languages & Tools
 
